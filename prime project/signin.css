@@ -1,0 +1,66 @@
+.image img{
+    width: 150px;
+    
+}
+.box{
+    width: 306px;
+    height: 440px;
+    padding: 20px 26px;
+    border: 1px solid #a2a1a1c7;
+    display: flex;
+    border-radius: 4px;
+    flex-direction: column;
+    margin: 20px auto 25px auto;
+}
+.box h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+   
+}
+.box label{
+    font-size: 14px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    font-weight: 800;
+    
+}
+.box input{
+    width: 280px;
+    height: 25px;
+    padding: 3px 7px;
+    background-color: #fff;
+    border: 1px solid #a6a6a6;
+    border-radius: 3px;
+}
+.id{
+    text-decoration: none;
+    
+}
+.box button{
+    width: 288px;
+    height: 34px;
+    margin-top: 15px auto;
+    background-color: #fff;
+    border: 1px solid #a6a6a6;
+    border-top-color: #949494;
+    background-image: linear-gradient(#f7da90,#e2b33b);
+    border-radius: 3px;
+}
+.box p , .box p a{
+    font-size: 14px;
+    line-height: 1.5;
+}
+.a{
+    text-decoration: none;
+    color: blue;
+}
+.box a{
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.links a{
+    font-size: smaller;
+    text-decoration: none;
+}
